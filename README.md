@@ -1,1 +1,3 @@
-# movie-app-clone-21680-21848
+# Project Repository
+
+This is the initial README file for the project.
