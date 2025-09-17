@@ -1,0 +1,4 @@
+{
+    "command": "flutter pub get",
+    "working_directory": "/home/kavia/workspace/code-generation/movie-app-clone-21680-21848/BackendAPIService"
+}
